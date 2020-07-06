@@ -20,4 +20,4 @@
 // ];
 
 
-Route::get('/','Admin/index/index');
+Route::get('/','admin/index/index');
